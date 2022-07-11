@@ -92,7 +92,7 @@ def menu():
     print '\x1b[1;93mAUTHOR   : \x1b[1;92mMD SUMSN HOSSAIN'                                           
     print '\x1b[1;93mFACEBOOK : \x1b[1;92mSuman.love420'
     print '\x1b[1;93mGITHUB   : \x1b[1;92mMD SUMAN HOSSAIN'
-    print '\x1b[1;93mCALL ME  : \x1b[1;92m01934031767
+    print '\x1b
     print '\x1b[1;97m============================================'
     print '\x1b[1;91m[1]  \x1b[1;93mGP'
     print '\x1b[1;91m[2]  \x1b[1;93mRobi'
